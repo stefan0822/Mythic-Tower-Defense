@@ -121,6 +121,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3938674337242630910}
+  - component: {fileID: 3309707715792441745}
   m_Layer: 0
   m_Name: Toamna
   m_TagString: Untagged
@@ -148,6 +149,36 @@ Transform:
   - {fileID: 1576049941589209058}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3309707715792441745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1378996338535250493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
+  towerOptions:
+  - towerName: Archer
+    level1Prefab: {fileID: 8537479201435001719, guid: 0022ea230987ed7418a01b9a77bc7df7, type: 3}
+    level2Prefab: {fileID: 8376208491808237309, guid: eeda3b13d2ef52f41b0c091a2a1d9d8c, type: 3}
+    level3Prefab: {fileID: 5267921282390727949, guid: 4fbe2a2f2c4be9348816ac79fcae4aee, type: 3}
+  - towerName: Laser
+    level1Prefab: {fileID: 8537479201435001719, guid: 193b55dda2e34f845ae71ff902030752, type: 3}
+    level2Prefab: {fileID: 8376208491808237309, guid: 3289ffdd6fe451242a8ca65935bfacb3, type: 3}
+    level3Prefab: {fileID: 5267921282390727949, guid: 1433cb21e06d62341b804659fa699ab2, type: 3}
+  - towerName: Pulse
+    level1Prefab: {fileID: 8537479201435001719, guid: 8b3c623ee335c424aae3706292db9cf0, type: 3}
+    level2Prefab: {fileID: 8376208491808237309, guid: 9e6b3cbd04a75a24d914a42fffb5a52c, type: 3}
+    level3Prefab: {fileID: 5267921282390727949, guid: 5872651ede3a0da4d90482db20711f3a, type: 3}
+  towerSpawnPoint: {fileID: 0}
+  heightOffset: 1.5
+  towerScale: 2
+  menuWidth: 210
+  hoverPadding: 12
 --- !u!1 &2237374563360519489
 GameObject:
   m_ObjectHideFlags: 0

@@ -7708,12 +7708,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1418428509}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &254511223
 GameObject:
   m_ObjectHideFlags: 0
@@ -8190,12 +8191,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 301957251}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &260894396
 GameObject:
   m_ObjectHideFlags: 0
@@ -11875,12 +11877,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 257707671}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &378060694
 GameObject:
   m_ObjectHideFlags: 0
@@ -12141,12 +12144,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1609958581}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &382659122
 GameObject:
   m_ObjectHideFlags: 0
@@ -12317,12 +12321,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1425804714}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &384530947 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1378996338535250493, guid: fb7b1c6aca0251b4c9c725bd08fe0b47, type: 3}
@@ -12442,12 +12447,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1864537367}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &395534309
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12596,12 +12602,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 626735008}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &396829209
 GameObject:
   m_ObjectHideFlags: 0
@@ -14144,6 +14151,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 422782001}
   m_Mesh: {fileID: 6110273550145549852, guid: 3c0a43e95aeab5e44b2c56ce8e1e33ab, type: 3}
+--- !u!1 &422840474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 422840475}
+  m_Layer: 0
+  m_Name: WP_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &422840475
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 422840474}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.5531795, y: -0.008922369, z: 0.0059494213, w: 0.8329931}
+  m_LocalPosition: {x: 9.3, y: 0.00004, z: -279.82}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2056570917}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &425717465
 GameObject:
   m_ObjectHideFlags: 0
@@ -14394,12 +14432,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 199168248}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &430686455
 GameObject:
   m_ObjectHideFlags: 0
@@ -15442,6 +15481,56 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 9150241209373382851, guid: e4a197307e7286e4aa1e8bcb3d815c80, type: 3}
   m_PrefabInstance: {fileID: 872005962}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &455660071
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 455660073}
+  - component: {fileID: 455660072}
+  m_Layer: 0
+  m_Name: Path_Primavara_Dreapta
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &455660072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 455660071}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6592f605ecfae44a1bff297de30ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WaypointPath
+  waypoints: []
+  pathColor: {r: 0, g: 1, b: 1, a: 1}
+  pointSize: 2.5
+--- !u!4 &455660073
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 455660071}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -9.73162, y: -151.29848, z: -60.33496}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 670080785}
+  - {fileID: 1426136270}
+  - {fileID: 1531497623}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &456545423
 GameObject:
   m_ObjectHideFlags: 0
@@ -15673,12 +15762,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1899409991}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &461510833
 GameObject:
   m_ObjectHideFlags: 0
@@ -19681,12 +19771,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1164071074}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &609964988
 GameObject:
   m_ObjectHideFlags: 0
@@ -21175,6 +21266,37 @@ Transform:
   - {fileID: 1767112928}
   m_Father: {fileID: 172733826}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &670080784
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 670080785}
+  m_Layer: 0
+  m_Name: WP_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &670080785
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 670080784}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 455660073}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &678872581
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21508,12 +21630,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1922126268}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &687780835
 GameObject:
   m_ObjectHideFlags: 0
@@ -22921,12 +23044,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 716717074}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &716994728
 GameObject:
   m_ObjectHideFlags: 0
@@ -25662,12 +25786,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 290794798}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &783094714
 GameObject:
   m_ObjectHideFlags: 0
@@ -26018,12 +26143,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 42434905}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &789367158
 GameObject:
   m_ObjectHideFlags: 0
@@ -27232,12 +27358,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1012021782}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &811682545
 GameObject:
   m_ObjectHideFlags: 0
@@ -28465,12 +28592,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 461510834}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &853073853
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29649,12 +29777,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1669259644}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &873756085
 GameObject:
   m_ObjectHideFlags: 0
@@ -29825,12 +29954,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1353982238}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &880507277 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5584795357395767871, guid: d99a4dd645c054a4185e0493835028ab, type: 3}
@@ -29848,12 +29978,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 543589394}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &884122169
 GameObject:
   m_ObjectHideFlags: 0
@@ -30024,12 +30155,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1547323370}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &885909139 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5118323104565755787, guid: ed362e4bc92f2ac4abf088c26f60c4f3, type: 3}
@@ -30510,12 +30642,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 143990062}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &896441200
 GameObject:
   m_ObjectHideFlags: 0
@@ -31026,12 +31159,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 284792762}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &924776116
 GameObject:
   m_ObjectHideFlags: 0
@@ -31667,12 +31801,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1465953964}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &937533239
 GameObject:
   m_ObjectHideFlags: 0
@@ -32596,12 +32731,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 907284434}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &960220950
 GameObject:
   m_ObjectHideFlags: 0
@@ -32653,12 +32789,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1599486733}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &963850368
 GameObject:
   m_ObjectHideFlags: 0
@@ -33272,6 +33409,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 981631723}
   m_Mesh: {fileID: -8686973698728938340, guid: 745a625432176714892ec099ae69efb2, type: 3}
+--- !u!1 &983505094
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 983505095}
+  m_Layer: 0
+  m_Name: WP_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &983505095
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 983505094}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.6107484, y: 0.0038407394, z: -0.0029969092, w: 0.7918098}
+  m_LocalPosition: {x: -11.36, y: 0.00004, z: -193.39}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2056570917}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &983967238
 GameObject:
   m_ObjectHideFlags: 0
@@ -34620,12 +34788,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1203693245}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1017671373
 GameObject:
   m_ObjectHideFlags: 0
@@ -34864,12 +35033,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1652481881}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1027424053
 GameObject:
   m_ObjectHideFlags: 0
@@ -35548,12 +35718,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 129137798}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1037510913
 GameObject:
   m_ObjectHideFlags: 0
@@ -36652,12 +36823,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1097451234}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &1084050946
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -37256,12 +37428,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 826284212}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1097451233
 GameObject:
   m_ObjectHideFlags: 0
@@ -37524,12 +37697,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1721424461}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1115129400
 GameObject:
   m_ObjectHideFlags: 0
@@ -37826,12 +38000,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 15195841}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1131160644
 GameObject:
   m_ObjectHideFlags: 0
@@ -38002,12 +38177,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 729470667}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1133366781
 GameObject:
   m_ObjectHideFlags: 0
@@ -38304,12 +38480,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 747240542}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1160841825
 GameObject:
   m_ObjectHideFlags: 0
@@ -38511,12 +38688,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 16098828}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1168896586 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9150241209373382851, guid: e4a197307e7286e4aa1e8bcb3d815c80, type: 3}
@@ -38629,12 +38807,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 655568229}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1173779953 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5118323104565755787, guid: ed362e4bc92f2ac4abf088c26f60c4f3, type: 3}
@@ -39017,12 +39196,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 219069417}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1184707019
 GameObject:
   m_ObjectHideFlags: 0
@@ -39506,12 +39686,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 556653567}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1201995905
 GameObject:
   m_ObjectHideFlags: 0
@@ -39681,12 +39862,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1037031460}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1213457194
 GameObject:
   m_ObjectHideFlags: 0
@@ -39735,12 +39917,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1213457195}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1218353751
 GameObject:
   m_ObjectHideFlags: 0
@@ -40000,12 +40183,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1066916702}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1230042542
 GameObject:
   m_ObjectHideFlags: 0
@@ -40973,12 +41157,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 133047286}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1253091172
 GameObject:
   m_ObjectHideFlags: 0
@@ -41027,12 +41212,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 904319976}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &1255651182
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41113,12 +41299,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1189590989}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1256401229 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1378996338535250493, guid: fb7b1c6aca0251b4c9c725bd08fe0b47, type: 3}
@@ -41136,12 +41323,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 502484108}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1260765802
 GameObject:
   m_ObjectHideFlags: 0
@@ -41470,12 +41658,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1404010692}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1266521383 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5584795357395767871, guid: d99a4dd645c054a4185e0493835028ab, type: 3}
@@ -41493,12 +41682,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1275210937}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1270046531 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9150241209373382851, guid: e4a197307e7286e4aa1e8bcb3d815c80, type: 3}
@@ -42550,12 +42740,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 819746146}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1297446140
 GameObject:
   m_ObjectHideFlags: 0
@@ -42997,12 +43188,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 2104565011}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &1307444975
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -43083,12 +43275,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1334011956}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1307737480
 GameObject:
   m_ObjectHideFlags: 0
@@ -43406,12 +43599,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 2087139901}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1311223094
 GameObject:
   m_ObjectHideFlags: 0
@@ -44595,12 +44789,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1003622276}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1337115323 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9150241209373382851, guid: e4a197307e7286e4aa1e8bcb3d815c80, type: 3}
@@ -46001,12 +46196,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1766553940}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1394495364
 GameObject:
   m_ObjectHideFlags: 0
@@ -46114,12 +46310,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 296014092}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &1398508683
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -46200,12 +46397,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1253091173}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1401171439
 GameObject:
   m_ObjectHideFlags: 0
@@ -47141,6 +47339,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 384486836}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1426136269
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1426136270}
+  m_Layer: 0
+  m_Name: WP_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1426136270
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1426136269}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 455660073}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1428070694
 GameObject:
   m_ObjectHideFlags: 0
@@ -48004,12 +48233,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 2109142847}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1443041459
 GameObject:
   m_ObjectHideFlags: 0
@@ -49739,12 +49969,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1454592285}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1481626914
 GameObject:
   m_ObjectHideFlags: 0
@@ -51449,6 +51680,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1530551120}
   m_Mesh: {fileID: -8686973698728938340, guid: 745a625432176714892ec099ae69efb2, type: 3}
+--- !u!1 &1531497622
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1531497623}
+  m_Layer: 0
+  m_Name: WP_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1531497623
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1531497622}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 455660073}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1532058072 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9150241209373382851, guid: e4a197307e7286e4aa1e8bcb3d815c80, type: 3}
@@ -52064,12 +52326,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1490712497}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &1542595103
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -52150,12 +52413,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 71460686}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1547323369
 GameObject:
   m_ObjectHideFlags: 0
@@ -52204,12 +52468,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1566559118}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1548788001
 GameObject:
   m_ObjectHideFlags: 0
@@ -53236,12 +53501,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 444951299}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1563481944
 GameObject:
   m_ObjectHideFlags: 0
@@ -53803,12 +54069,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 897428214}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &1581996227
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -54074,12 +54341,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1869544499}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1586746446 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9150241209373382851, guid: e4a197307e7286e4aa1e8bcb3d815c80, type: 3}
@@ -54097,12 +54365,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1821880740}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1589051847
 GameObject:
   m_ObjectHideFlags: 0
@@ -54313,12 +54582,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1519488268}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1599057732
 GameObject:
   m_ObjectHideFlags: 0
@@ -55532,12 +55802,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1125865061}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1633839557
 GameObject:
   m_ObjectHideFlags: 0
@@ -59001,12 +59272,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 872000635}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1714793590
 GameObject:
   m_ObjectHideFlags: 0
@@ -59611,12 +59883,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1818410487}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1725716811
 GameObject:
   m_ObjectHideFlags: 0
@@ -59797,6 +60070,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1730242755}
   m_Mesh: {fileID: 6110273550145549852, guid: 3c0a43e95aeab5e44b2c56ce8e1e33ab, type: 3}
+--- !u!1 &1730512795
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1730512796}
+  m_Layer: 0
+  m_Name: WP_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1730512796
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1730512795}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 9.97, y: 0.00004, z: -62.59}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2056570917}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1731434929
 GameObject:
   m_ObjectHideFlags: 0
@@ -60228,12 +60532,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1716478419}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1745126665
 GameObject:
   m_ObjectHideFlags: 0
@@ -61088,12 +61393,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 575164992}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1777014147
 GameObject:
   m_ObjectHideFlags: 0
@@ -61748,12 +62054,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1078565509}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1794739525
 GameObject:
   m_ObjectHideFlags: 0
@@ -61951,12 +62258,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1812227754}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1801196020
 GameObject:
   m_ObjectHideFlags: 0
@@ -62275,12 +62583,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 2054843202}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1810476640
 GameObject:
   m_ObjectHideFlags: 0
@@ -62598,12 +62907,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1006621738}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1815389024
 GameObject:
   m_ObjectHideFlags: 0
@@ -63067,12 +63377,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 197762799}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &1831776730
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -63153,12 +63464,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1990284531}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1832618161
 GameObject:
   m_ObjectHideFlags: 0
@@ -63356,12 +63668,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 831532350}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1839925820
 GameObject:
   m_ObjectHideFlags: 0
@@ -63954,12 +64267,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 716717074}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1857526627
 GameObject:
   m_ObjectHideFlags: 0
@@ -64205,6 +64519,65 @@ Transform:
   - {fileID: 366392074}
   m_Father: {fileID: 1557189859}
   m_LocalEulerAnglesHint: {x: 0, y: 135, z: 0}
+--- !u!1 &1864310201
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1864310203}
+  - component: {fileID: 1864310202}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1864310202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1864310201}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 116bb56aa7811214aa8c028321a5c738, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WaveSpawner
+  seasons:
+  - seasonName: Primavara
+    totalWaves: 5
+    paths:
+    - {fileID: 2056570916}
+    basicEnemyPrefab: {fileID: 1204541850838319898, guid: 1c6994ce43675a34b943e9ab8e583612, type: 3}
+    fastEnemyPrefab: {fileID: 0}
+    tankEnemyPrefab: {fileID: 0}
+    finalBossPrefab: {fileID: 0}
+    startingEnemiesCount: 5
+    extraEnemiesPerWave: 2
+    timeBetweenSpawns: 0.8
+    healthMultiplierPerWave: 1.15
+  timeBetweenWaves: 5
+  autoStartNextWave: 1
+--- !u!4 &1864310203
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1864310201}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.4028296, y: -0.006733661, z: 0.0023774013, w: 0.91524714}
+  m_LocalPosition: {x: -9.044937, y: 165.55809, z: -394.58762}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1864537366
 GameObject:
   m_ObjectHideFlags: 0
@@ -64406,12 +64779,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 174088143}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1866336137
 GameObject:
   m_ObjectHideFlags: 0
@@ -64511,7 +64885,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1866671001}
-  - component: {fileID: 1866671002}
   m_Layer: 0
   m_Name: Zid_6_1
   m_TagString: Untagged
@@ -64537,28 +64910,6 @@ Transform:
   - {fileID: 1339751931}
   m_Father: {fileID: 172733826}
   m_LocalEulerAnglesHint: {x: 0, y: 135, z: 0}
---- !u!95 &1866671002
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1866671000}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: daca351adeac4174eacfa496f9b87301, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1868122077
 GameObject:
   m_ObjectHideFlags: 0
@@ -65397,12 +65748,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1731472809}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1898168102
 GameObject:
   m_ObjectHideFlags: 0
@@ -65548,12 +65900,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 896441201}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1903977321
 GameObject:
   m_ObjectHideFlags: 0
@@ -65724,12 +66077,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1223437189}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1908106492
 GameObject:
   m_ObjectHideFlags: 0
@@ -66750,12 +67104,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1857526628}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &1931934041
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -66836,12 +67191,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 921934752}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1934700888
 GameObject:
   m_ObjectHideFlags: 0
@@ -67125,12 +67481,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1208910574}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1942396765
 GameObject:
   m_ObjectHideFlags: 0
@@ -67430,12 +67787,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1013143854}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1952086529 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1378996338535250493, guid: fb7b1c6aca0251b4c9c725bd08fe0b47, type: 3}
@@ -67453,12 +67811,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1218353752}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &1954905102
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -67539,12 +67898,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 604385580}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1956845804
 GameObject:
   m_ObjectHideFlags: 0
@@ -67686,12 +68046,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1421805866}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &1960238827
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -67772,12 +68133,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 734364729}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1968046219
 GameObject:
   m_ObjectHideFlags: 0
@@ -68279,12 +68641,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1807097278}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1981347730
 GameObject:
   m_ObjectHideFlags: 0
@@ -68693,12 +69056,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 485591743}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1998306632 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1378996338535250493, guid: fb7b1c6aca0251b4c9c725bd08fe0b47, type: 3}
@@ -68716,12 +69080,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1697748599}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &1999705841
 GameObject:
   m_ObjectHideFlags: 0
@@ -69396,12 +69761,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 447458181}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2005639676 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5118323104565755787, guid: ed362e4bc92f2ac4abf088c26f60c4f3, type: 3}
@@ -69419,12 +69785,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1063930465}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2005904960
 GameObject:
   m_ObjectHideFlags: 0
@@ -69955,12 +70322,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1968046220}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2018208739
 GameObject:
   m_ObjectHideFlags: 0
@@ -70439,12 +70807,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 985089183}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2036822805
 GameObject:
   m_ObjectHideFlags: 0
@@ -70992,12 +71361,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 5396492433638807484, guid: 6a05b237b2c14d243a6ad626924f23b9, type: 3}
-  towerLevel2: {fileID: 2101196484145651033, guid: b4f071e1802fa07498c1b4a12a52a6b2, type: 3}
-  towerLevel3: {fileID: 4079837685941308816, guid: 9f354236d993ee848b0b4c37932ac5b8, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 719487521}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &2054822177
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -71078,12 +71448,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 3249287732020793342, guid: fe60ec7ff3b557842912650d9c6f902a, type: 3}
-  towerLevel2: {fileID: 6203558622965068703, guid: 2d342d33f3039cd4da0bb97075c5f95e, type: 3}
-  towerLevel3: {fileID: 3426580153127562752, guid: ea8cb0a6ce7eda64a8428304504b7f03, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1975248779}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2054843201
 GameObject:
   m_ObjectHideFlags: 0
@@ -71239,6 +71610,56 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2055912427}
   m_Mesh: {fileID: 6110273550145549852, guid: 745a625432176714892ec099ae69efb2, type: 3}
+--- !u!1 &2056570915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2056570917}
+  - component: {fileID: 2056570916}
+  m_Layer: 0
+  m_Name: Path_Primavara_Stanga
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2056570916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2056570915}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6592f605ecfae44a1bff297de30ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WaypointPath
+  waypoints: []
+  pathColor: {r: 0, g: 1, b: 1, a: 1}
+  pointSize: 2.5
+--- !u!4 &2056570917
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2056570915}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -9.73162, y: 0.00004, z: -60.33496}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 422840475}
+  - {fileID: 983505095}
+  - {fileID: 1730512796}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2059896271
 GameObject:
   m_ObjectHideFlags: 0
@@ -71863,12 +72284,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1158905353}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &2073300347
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -71949,12 +72371,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 545010458}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2073583233
 GameObject:
   m_ObjectHideFlags: 0
@@ -72235,7 +72658,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1378996338535250493, guid: fb7b1c6aca0251b4c9c725bd08fe0b47, type: 3}
       propertyPath: m_Name
-      value: Toamna (31)
+      value: GameObject
       objectReference: {fileID: 0}
     - target: {fileID: 3938674337242630910, guid: fb7b1c6aca0251b4c9c725bd08fe0b47, type: 3}
       propertyPath: m_LocalPosition.x
@@ -72305,12 +72728,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1481626915}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2078317025
 GameObject:
   m_ObjectHideFlags: 0
@@ -72418,12 +72842,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 2018208740}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2081279295
 GameObject:
   m_ObjectHideFlags: 0
@@ -72742,12 +73167,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 611630846}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2090072613 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9150241209373382851, guid: e4a197307e7286e4aa1e8bcb3d815c80, type: 3}
@@ -72765,12 +73191,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1331386859}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2090513936
 GameObject:
   m_ObjectHideFlags: 0
@@ -72941,12 +73368,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1910431500}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1001 &2092344623
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -73027,12 +73455,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 479077576}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2092369234
 GameObject:
   m_ObjectHideFlags: 0
@@ -73417,12 +73846,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1999705842}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2099859021
 GameObject:
   m_ObjectHideFlags: 0
@@ -74790,12 +75220,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 792928481}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2131624254 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1378996338535250493, guid: fb7b1c6aca0251b4c9c725bd08fe0b47, type: 3}
@@ -74813,12 +75244,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 8537479201435001719, guid: 5f195aa5306d0bb4dbd988a151aaec9a, type: 3}
-  towerLevel2: {fileID: 8376208491808237309, guid: 2893d79d683847049bccd508f2788bb4, type: 3}
-  towerLevel3: {fileID: 5267921282390727949, guid: c546845074317da489b1af054b7633d4, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1634069306}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2132056868 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9150241209373382851, guid: e4a197307e7286e4aa1e8bcb3d815c80, type: 3}
@@ -74836,12 +75268,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 1707053055}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2135367197
 GameObject:
   m_ObjectHideFlags: 0
@@ -75012,12 +75445,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
-  towerLevel1: {fileID: 6227935112683244656, guid: ca3aa80b5cfe0ad44a636e0f6e157f59, type: 3}
-  towerLevel2: {fileID: 8890418692075862651, guid: 36929d9de38bfa1498be698cd2ae19e8, type: 3}
-  towerLevel3: {fileID: 8091927212756351851, guid: ee13e14059ab64f4bb945173ea5777fc, type: 3}
+  towerOptions: []
   towerSpawnPoint: {fileID: 2110776847}
   heightOffset: 1.5
   towerScale: 2
+  ringRadius: 95
+  cardSize: {x: 88, y: 64}
+  autoCloseRadius: 165
 --- !u!1 &2140314318
 GameObject:
   m_ObjectHideFlags: 0
@@ -75393,3 +75827,6 @@ SceneRoots:
   - {fileID: 752533286}
   - {fileID: 453472600}
   - {fileID: 471899877}
+  - {fileID: 2056570917}
+  - {fileID: 455660073}
+  - {fileID: 1864310203}

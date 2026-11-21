@@ -68,10 +68,26 @@ public static class PedestalAutoSetupEditor
 
                 Undo.RecordObject(pedestal, "Configure Tower Pedestal");
 
-                // Don't overwrite values already configured by hand.
-                if (pedestal.towerLevel1 == null) pedestal.towerLevel1 = lv1;
-                if (pedestal.towerLevel2 == null) pedestal.towerLevel2 = lv2;
-                if (pedestal.towerLevel3 == null) pedestal.towerLevel3 = lv3;
+                // Populam prima optiune din lista towerOptions daca nu a fost setata manual
+                if (pedestal.towerOptions == null || pedestal.towerOptions.Length == 0)
+                {
+                    pedestal.towerOptions = new TowerOption[]
+                    {
+                        new TowerOption
+                        {
+                            towerName = "Turn " + season,
+                            level1Prefab = lv1,
+                            level2Prefab = lv2,
+                            level3Prefab = lv3
+                        }
+                    };
+                }
+                else
+                {
+                    if (pedestal.towerOptions[0].level1Prefab == null) pedestal.towerOptions[0].level1Prefab = lv1;
+                    if (pedestal.towerOptions[0].level2Prefab == null) pedestal.towerOptions[0].level2Prefab = lv2;
+                    if (pedestal.towerOptions[0].level3Prefab == null) pedestal.towerOptions[0].level3Prefab = lv3;
+                }
 
                 if (pedestal.towerSpawnPoint == null)
                 {

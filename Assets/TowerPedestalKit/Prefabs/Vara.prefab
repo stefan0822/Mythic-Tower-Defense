@@ -413,6 +413,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6927951619958936143}
+  - component: {fileID: 4040602939011257691}
   m_Layer: 0
   m_Name: Vara
   m_TagString: Untagged
@@ -439,3 +440,33 @@ Transform:
   - {fileID: 5468470982946209889}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4040602939011257691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5584795357395767871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 563942d9eba91a54e8881db0a31e45b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TowerPedestal
+  towerOptions:
+  - towerName: Archer
+    level1Prefab: {fileID: 5396492433638807484, guid: 18a69668be006d84da29f63c3071ac6e, type: 3}
+    level2Prefab: {fileID: 8890418692075862651, guid: 1d4dadaae65cf5545a2501a019c1f199, type: 3}
+    level3Prefab: {fileID: 0}
+  - towerName: Laser
+    level1Prefab: {fileID: 5396492433638807484, guid: bd5a90616532f9541b693d585fd1daeb, type: 3}
+    level2Prefab: {fileID: 2101196484145651033, guid: f157e20066c3e5746811b6f42f17eafb, type: 3}
+    level3Prefab: {fileID: 4079837685941308816, guid: 95a1c3965c1b32b4d8d0577697edcab6, type: 3}
+  - towerName: Pulse
+    level1Prefab: {fileID: 0}
+    level2Prefab: {fileID: 0}
+    level3Prefab: {fileID: 0}
+  towerSpawnPoint: {fileID: 0}
+  heightOffset: 1.5
+  towerScale: 2
+  menuWidth: 210
+  hoverPadding: 12
